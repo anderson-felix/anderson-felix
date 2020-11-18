@@ -1,4 +1,4 @@
-<img src="https://github.com/MaikolSantos/image/blob/main/octocat-left-student.png" align="right">
+<img src=https://giphy.com/gifs/5fkzHxGP920Ra/html5" align="right">
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
