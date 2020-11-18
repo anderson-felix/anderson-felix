@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/5fkzHxGP920Ra/html5" align="right">
+<img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" align="right">
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
