@@ -12,8 +12,6 @@
 
 <p align="center"> 📫 Contact: <strong>andersonfelixmsouza@gmail.com</strong></p>
 
-<h3 align="center">👔 Networks </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="center" src="https://github.com/MaikolSantos/image/blob/main/linkedin.svg" alt="LinkedIn: Anderson Felix" width="20" heigth="20"/></a>
 
