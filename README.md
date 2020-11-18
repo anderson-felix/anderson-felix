@@ -6,7 +6,9 @@
 
 <p align="center"> 🛠️ <strong>Software enginner junior</strong></p>
 
-<p align="center"> 🛠️ Stack principal: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
+<p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
+
+<p align="center"> 🖥️ Secondary stack: <strong>C#, .NETcore and MongoDB</strong></p>
 
 <p align="center"> 📫 Contact: <strong>andersonfelixmsouza@gmail.com</strong></p>
 
