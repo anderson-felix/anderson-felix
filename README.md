@@ -1,10 +1,14 @@
-<img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" align="left" width="400px">
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
-<p align="center"> 🌱 I’m currently learning: <strong>Python, Java and SQL</strong></p>
+<p align="center"> 🌱 No pain no gain, it's a fucking really</p>
 
-<p align="center"> 📫 How to reach me: <strong>maikol.lourencon@gmail.com</strong></p>
+<p align="center"> 🛠️ <strong>Software enginner junior</strong></p>
+
+<p align="center"> 🛠️ Stack principal: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
+
+<p align="center"> 📫 Contact: <strong>andersonfelixmsouza@gmail.com</strong></p>
 
 <h3 align="center"> My Social Networks 😁 </h3>
 
