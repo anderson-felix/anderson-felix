@@ -13,7 +13,7 @@
 <p align="center"> 📫 Contact: <strong>andersonfelixmsouza@gmail.com</strong></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="center" src="https://github.com/MaikolSantos/image/blob/main/linkedin.svg" alt="LinkedIn: Anderson Felix" width="20" heigth="20"/></a>
+<a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="right" src="https://github.com/MaikolSantos/image/blob/main/linkedin.svg" alt="LinkedIn: Anderson Felix" width="30" heigth="20"/></a>
 
 </p>
 
