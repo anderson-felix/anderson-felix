@@ -4,7 +4,7 @@
 
 <p align="center"> 🌱 No pain no gain, it's a fucking really</p>
 
-<p align="center"> 🛠️ <strong>Software enginner junior</strong></p>
+<p align="center"> 🛠️ <strong>Back-end developer junior</strong></p>
 
 <p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
 
@@ -13,7 +13,7 @@
 <p align="center"> 📫 Contact: <strong>andersonfelixmsouza@gmail.com</strong></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="right" src="https://github.com/MaikolSantos/image/blob/main/linkedin.svg" alt="LinkedIn: Anderson Felix" width="30" heigth="20"/></a>
+<a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="right" src="https://www.flaticon.com/br/icone-gratis/linkedin_174857" alt="LinkedIn: Anderson Felix" width="30" heigth="20"/></a>
 
 </p>
 
