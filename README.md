@@ -2,8 +2,6 @@
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
-<p align="center"> 🌱 No pain no gain, it's a fucking really</p>
-
 <p align="center"> 🛠️ <strong>Back-end developer junior</strong></p>
 
 <p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
