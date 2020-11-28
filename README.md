@@ -4,7 +4,7 @@
 
 <p align="center"> 🛠️ <strong>Back-end developer junior</strong></p>
 
-<p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS with Express and SQL</strong></p>
+<p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS and SQL</strong></p>
 
 <p align="center"> 🖥️ Secondary stack: <strong>C#, .NETcore and MongoDB</strong></p>
 
