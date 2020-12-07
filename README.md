@@ -7,6 +7,7 @@
 <p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS and SQL/MongoDB</strong></p>
 
 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/anderson-felix-a6b0221a6/" target="_blank"><img align="center" src="https://github.com/anderson-felix/image/blob/main/linkedin.png" alt="LinkedIn: Anderson Felix" width="30" heigth="20"/></a>
 </p>
