@@ -2,7 +2,7 @@
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
-<p align="center"> 🛠️ <strong>Back-end developer junior</strong></p>
+<p align="center"> 🛠️ <strong>Back-end developer</strong></p>
 
 <p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS and SQL/MongoDB</strong></p>
 
