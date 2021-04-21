@@ -2,9 +2,11 @@
 <br>
 <h1 align="center"> Welcome to the jungle </h1>
 
-<p align="center"> 🛠️ <strong>Back-end developer</strong></p>
+<p align="center"> 🛠️ <strong>Software developer</strong></p>
 
-<p align="center"> 🖥️ Principal stack: <strong>TypeScript, NodeJS and SQL/MongoDB</strong></p>
+<p align="center"> 🖥️ Principal stack: <strong>TypeScript, ReactJS, NodeJS and SQL/MongoDB</strong></p>
+
+<p align="center"> 🖥️ Secondary stack: <strong>React Native, Electron and Python</strong></p>
 
 
 <p align="center">
