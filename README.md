@@ -4,9 +4,8 @@
 
 <p align="center"> 🛠️ <strong>Software developer</strong></p>
 
-<p align="center"> 🖥️ Principal stack: <strong>TypeScript, ReactJS, NodeJS and SQL/MongoDB</strong></p>
+<p align="center"> 🖥️ Current stack: <strong>Typescript, NodeJS, ReactJS, Docker and MongoDB</strong></p>
 
-<p align="center"> 🖥️ Secondary stack: <strong>React Native, Electron and Python</strong></p>
 
 
 <p align="center">
