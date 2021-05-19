@@ -4,7 +4,7 @@
 
 <p align="center"> 🛠️ <strong>Software developer</strong></p>
 
-<p align="center"> 🖥️ Current stack: <strong>Typescript, NodeJS, ReactJS, Docker and MongoDB</strong></p>
+<p align="center"> 🖥️ Current stack: <strong>Typescript, NodeJS, ReactJS, Docker and SQL</strong></p>
 
 
 
