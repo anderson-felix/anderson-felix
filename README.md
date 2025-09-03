@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://dev.java/learn/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> </a>
